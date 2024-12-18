@@ -15,10 +15,10 @@ Testing Types: Functional Testing, Non-functional Testing, Regression Testing, L
 - **Collaboration**: Experience working in Agile & Waterfall development methodologies
 - **Other Tools**: Figma, BrowserStack, Git
 
-## **Certifications:**
-ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)
+## **📜Certifications:**
+**ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)**__
 
-## **Contact Me** ![Project Demo](demo.gif)
+## **📱Contact Me** ![Project Demo](demo.gif)
 
 _**Get in TouchWant to discuss a project, collaborate, or ask a question? I’d love to hear from you!**___
 - 📧 Email: jbdintal@gmail.com
