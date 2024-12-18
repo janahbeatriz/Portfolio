@@ -2,7 +2,7 @@
 
 ## **✨ About me**
 
-I am an ISTQB-CTFL certified Quality Assurance Analyst with over 8 years of diverse experience in testing web and mobile applications. My expertise spans functional and non-functional testing, automation testing with Playwright, and API testing. My career journey began as a Salesforce Developer, where I gained a strong foundation in CRM, Sales, and Community applications. Over the years, I’ve expanded my role to become a versatile QA, collaborating closely with designers and developers to ensure optimal product quality.
+Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years of diverse experience in testing web and mobile applications. My expertise spans functional and non-functional testing, automation testing with Playwright, and API testing. My career journey began as a Salesforce Developer, where I gained a strong foundation in CRM, Sales, and Community applications. Over the years, I’ve expanded my role to become a versatile QA, collaborating closely with designers and developers to ensure optimal product quality.
 
 ## **🚀Core Skills & Expertise:**
 
@@ -13,7 +13,7 @@ Testing Types: Functional Testing, Non-functional Testing, Regression Testing, L
 - **Testing Environments**: Mobile & Web Testing, Cross-browser Testing, Accessibility Testing
 - **CI/CD Tools**: Jenkins, GitHub
 - **Collaboration**: Experience working in Agile & Waterfall development methodologies
-- **Other Tools**: Figma, BrowserStack, Git
+- **Other Tools**: Figma, BrowserStack, Git, mySQL
 
 ## **📜Certifications:**
 **ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)**
