@@ -16,11 +16,11 @@ Testing Types: Functional Testing, Non-functional Testing, Regression Testing, L
 - **Other Tools**: Figma, BrowserStack, Git
 
 ## **📜Certifications:**
-**ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)**__
+**ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)**
 
 ## **📱Contact Me** ![Project Demo](demo.gif)
 
-_**Get in TouchWant to discuss a project, collaborate, or ask a question? I’d love to hear from you!**___
+_**Get in TouchWant to discuss a project, collaborate, or ask a question? I’d love to hear from you!**
 - 📧 Email: jbdintal@gmail.com
 - 💼 LinkedIn: [My Linkedin Profile - Let's connect!](https://www.linkedin.com/in/janahintal)
--  [📄 **View My Resume**]([docs/resume.pdf](https://drive.google.com/file/d/1X3an9Ne-43RlUfl_VQop_yht5WMmWKNq/view?usp=sharing))
+-  [📄 **View My Resume**](https://drive.google.com/file/d/1X3an9Ne-43RlUfl_VQop_yht5WMmWKNq/view?usp=sharing)
