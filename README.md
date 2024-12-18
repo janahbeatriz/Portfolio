@@ -13,7 +13,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - **CI/CD Tools**: Jenkins, GitHub
 - **Collaboration**: Experience working in Agile & Waterfall development methodologies
 - **Other Tools**: Figma, BrowserStack, Git, mySQL
-- - **Testing Types**: Functional Testing, Non-functional Testing, Regression Testing, Load Testing, API Testing, Performance Testing, Smoke Testing, Cross-browser Testing, Accessibility Testing
+- **Testing Types**: Functional Testing, Non-functional Testing, Regression Testing, Load Testing, API Testing, Performance Testing, Smoke Testing, Cross-browser Testing, Accessibility Testing
 
 ## **📜Certifications:**
 **ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)**
