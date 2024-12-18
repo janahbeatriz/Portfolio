@@ -7,12 +7,13 @@ I am an ISTQB-CTFL certified Quality Assurance Analyst with over 8 years of dive
 ## **Core Skills & Expertise:**
 
 Testing Types: Functional Testing, Non-functional Testing, Regression Testing, Load Testing, API Testing, Performance Testing
-- Automation Tools: Playwright, Selenium, JMeter, Postman
-- Bug Tracking & Project Management: JIRA, Trello, Bugzilla, Confluence, GitHub
-- Testing Environments: Mobile & Web Testing, Cross-browser Testing, Accessibility Testing
-- CI/CD Tools: Jenkins, GitHub
-- Collaboration: Experience working in Agile & Waterfall development methodologies
-- Other Tools: Figma, BrowserStack, Git
+- **Manual Testing**: Strong SDLC / STLC experience
+- **Automation Testing**: Playwright, Selenium, JMeter, Postman
+- **Bug Tracking & Project Management**: JIRA, Trello, Bugzilla, Confluence, GitHub
+- **Testing Environments**: Mobile & Web Testing, Cross-browser Testing, Accessibility Testing
+- **CI/CD Tools**: Jenkins, GitHub
+- **Collaboration**: Experience working in Agile & Waterfall development methodologies
+- **Other Tools**: Figma, BrowserStack, Git
 
 ## **Certifications:**
 ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)
@@ -20,6 +21,6 @@ ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)
 ## **Contact Me** ![Project Demo](demo.gif)
 
 Get in TouchWant to discuss a project, collaborate, or ask a question? I’d love to hear from you!
-📧 Email: jbdintal@gmail.com
-🌐 GitHub: github.com/janahbeatriz
-💼 LinkedIn: linkedin.com/in/janahintal
+- 📧 Email: jbdintal@gmail.com
+- 🌐 GitHub: github.com/janahbeatriz
+- 💼 LinkedIn: linkedin.com/in/janahintal
