@@ -15,7 +15,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - **Other Tools**: Figma, BrowserStack, Git, mySQL
 - **Testing Types**: Functional Testing, Non-functional Testing, Regression Testing, Load Testing, API Testing, Performance Testing, Smoke Testing, Cross-browser Testing, Accessibility Testing
 
-## **✅ Works / Products Tested:**
+## **💻 Works / Products Tested:**
 - Design Systems (Mobile / Web)
 - QMS for Medical Company
 - Digital Learning Platform
@@ -26,7 +26,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - Payment Method (Gaming Platform)
 
 ## **📜Certifications:**
-**ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)**
+_**ISTQB-CTFL Certified — Certification Number: 00325339 (February 2017)**_
 
 ## **📱Contact Me** 
 
