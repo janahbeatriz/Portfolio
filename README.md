@@ -1,4 +1,4 @@
-# Portfolio 🔥
+# QA Portfolio 🔥
 
 ## **✨ About me**
 
@@ -30,7 +30,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - [Sample QA Doc Files](https://drive.google.com/drive/folders/1G2ZyW1OxvQZw_bFqdgn-NXl--H9Mj6Bw?usp=sharing)
 
 
-## **💻 Products Tested:**
+## **💻 Domain Expertise:**
 - Design Systems (Mobile / Web)
 - QMS for Medical Company
 - Digital Learning Platform
