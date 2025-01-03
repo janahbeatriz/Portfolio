@@ -8,7 +8,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 <p align="center"> 
   💌 <a href="mailto:jbdintal@gmail.com"><strong>jbdintal@gmail.com</strong></a>  |
   💼 <a href="https://www.linkedin.com/in/janahintal"><strong>My Linkedin Profile - Let's connect!</strong></a> |
-  🍒 <a href="https://drive.google.com/file/d/1X3an9Ne-43RlUfl_VQop_yht5WMmWKNq/view?usp=sharing"><strong>View My Resume</strong></a>
+  🍒 <a href="https://drive.google.com/file/d/1HjasCCYuSzf2lbowBMtv5KxJZVYCr5q9/view?usp=sharing"><strong>View My Resume</strong></a>
 </p>
 
 
