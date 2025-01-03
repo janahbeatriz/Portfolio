@@ -22,7 +22,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - **Collaboration**: Experience working in Agile & Waterfall development methodologies
 - **Other Tools**: Figma, BrowserStack, Git, mySQL
 - **Testing Types**: Functional Testing, Non-functional Testing, Regression Testing, Load Testing, API Testing, Performance Testing, Smoke Testing, Cross-browser Testing, Accessibility Testing
-- **Familiar with**: JavaScript, TypeScript, Java, SQL, HTML, and CSS | Passionate QA Engineer
+- **Familiar with**: JavaScript, TypeScript, Java, SQL, HTML, and CSS
 
 ## **:shipit: Works / Samples:**
 - [API Testing](https://github.com/janahbeatriz/petstore-api)
