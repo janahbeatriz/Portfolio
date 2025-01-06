@@ -48,7 +48,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - Delivered detailed test plans and documentation for the client.
 
 ### **3. Design System Testing**
-- Conduct unit testing per components using Puppeteer transitioned to Playwright
+- Conduct unit testing per components increasing code coverage to 90%+ using Puppeteer transitioned to Playwright. 
 - Perform Regression, Smoke, Accessibility and Cross browser testing
 - Automate regression testing using Playwright
 
