@@ -1,7 +1,9 @@
 # QA Portfolio 🔥
 
 ## **✨ About me**
-
+<!-- ![Header](https://user-images.githubusercontent.com/header-image.jpg) Replace with your actual header image -->
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=janahbeatriz&color=ff69b4" alt="janahintal" /> </h3>
+<p align="center" alt="janahintal">
 Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years of diverse experience in testing web and mobile applications. My expertise spans functional and non-functional testing, automation testing with Playwright, and API testing. My career journey began as a Salesforce Developer, where I gained a strong foundation in CRM, Sales, and Community applications. Over the years, I’ve expanded my role to become a versatile QA, collaborating closely with designers and developers to ensure optimal product quality.
 
 #### <p align=center> 📱 **Contact me!** </p>
