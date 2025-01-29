@@ -36,6 +36,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 
 ## **:shipit: Works / Samples:**
 - [API Testing](https://github.com/janahbeatriz/petstore-api)
+- [BDD Sample using Playwright, Cucumber, Gherkin](https://github.com/janahbeatriz/bdd-playwright-cucumber/tree/main)
 - [Test Automation (Playwright)](https://github.com/janahbeatriz/playwright-demo)
 - [Sample QA Doc Files](https://drive.google.com/drive/folders/1G2ZyW1OxvQZw_bFqdgn-NXl--H9Mj6Bw?usp=sharing)
 
