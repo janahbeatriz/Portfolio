@@ -39,7 +39,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - [BDD Sample using Playwright, Cucumber in Gherkin](https://github.com/janahbeatriz/bdd-playwright-cucumber/tree/main)
 - [Test Automation (Playwright)](https://github.com/janahbeatriz/playwright-demo)
 - [Sample QA Doc Files](https://drive.google.com/drive/folders/1G2ZyW1OxvQZw_bFqdgn-NXl--H9Mj6Bw?usp=sharing)
-- [Plan, Test Case and Scenarios for Saucedemo created in Kiwi TCMS](https://public.tenant.kiwitcms.org/plan/11474/saucedemo-test-plan)
+- [Test Plan, Test Case and Scenarios for Saucedemo created in Kiwi TCMS](https://public.tenant.kiwitcms.org/plan/11474/saucedemo-test-plan)
 - [Test Execution, Incident Report for QMS Testing in Spira](https://imgur.com/a/ybWCPlp)
 ![Test Execution Demo](https://s5.ezgif.com/tmp/ezgif-50dfe0dd0f34b.gif)
 
