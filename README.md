@@ -40,6 +40,8 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 - [Test Automation (Playwright)](https://github.com/janahbeatriz/playwright-demo)
 - [Sample QA Doc Files](https://drive.google.com/drive/folders/1G2ZyW1OxvQZw_bFqdgn-NXl--H9Mj6Bw?usp=sharing)
 - [Plan, Test Case and Scenarios for Saucedemo created in Kiwi TCMS](https://public.tenant.kiwitcms.org/plan/11474/saucedemo-test-plan)
+- [Test Execution, Incident Report for QMS Testing in Spira](https://imgur.com/a/ybWCPlp)
+![Test Execution Demo](https://imgur.com/3g5ZSNT.gif)
 
 ## **🖥️ Featured Projects**
 ### **1. Digital Learning Platform Automation**
