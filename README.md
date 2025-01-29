@@ -16,14 +16,14 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 ## **🛠️ Tech Stack**
 ### **🚀Core Skills & Expertise:**
 - **Manual Testing**: Strong SDLC / STLC experience
-- **Automation Testing**: Playwright, Selenium, JMeter, Postman
+- **Automation Testing**: Playwright, Selenium, JMeter, Postman, Cucumber
 - **Bug Tracking & Project Management**: JIRA, Trello, Bugzilla, Confluence, GitHub
 - **Testing Environments**: Mobile & Web Testing, Cross-browser Testing, Accessibility Testing
 - **CI/CD Tools**: Jenkins, GitHub
 - **Collaboration**: Experience working in Agile & Waterfall development methodologies
 - **Other Tools**: Figma, BrowserStack, Git, mySQL
-- **Testing Types**: Functional Testing, Non-functional Testing, Regression Testing, Load Testing, API Testing, Performance Testing, Smoke Testing, Cross-browser Testing, Accessibility Testing
-- **Familiar with**: JavaScript, TypeScript, Java, SQL, HTML, and CSS
+- **Testing Types**: Functional Testing, Non-functional Testing, Regression Testing, Load Testing, API Testing, Performance Testing, Smoke Testing, Cross-browser Testing, Accessibility Testing, BDD
+- **Familiar with**: JavaScript, TypeScript, Java, SQL, HTML, and CSS, Gherkin
 ### **💻 Domain Expertise:**
 - Design Systems (Mobile / Web)
 - QMS for Medical Company
@@ -36,7 +36,7 @@ Hello! I'm Janah, an ISTQB-CTFL certified Quality Assurance Analyst with 6 years
 
 ## **:shipit: Works / Samples:**
 - [API Testing](https://github.com/janahbeatriz/petstore-api)
-- [BDD Sample using Playwright, Cucumber, Gherkin](https://github.com/janahbeatriz/bdd-playwright-cucumber/tree/main)
+- [BDD Sample using Playwright, Cucumber in Gherkin](https://github.com/janahbeatriz/bdd-playwright-cucumber/tree/main)
 - [Test Automation (Playwright)](https://github.com/janahbeatriz/playwright-demo)
 - [Sample QA Doc Files](https://drive.google.com/drive/folders/1G2ZyW1OxvQZw_bFqdgn-NXl--H9Mj6Bw?usp=sharing)
 
