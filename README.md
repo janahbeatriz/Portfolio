@@ -58,7 +58,6 @@ My background includes Salesforce engineering and QA, enterprise design systems,
 - [BDD with Playwright, Cucumber, and Gherkin](https://github.com/janahbeatriz/bdd-playwright-cucumber)
 - [Playwright Automation Demo](https://github.com/janahbeatriz/playwright-demo)
 - [Sample QA Documentation](https://drive.google.com/drive/folders/1G2ZyW1OxvQZw_bFqdgn-NXl--H9Mj6Bw?usp=sharing)
-- [SauceDemo Test Plan and Test Cases in Kiwi TCMS](https://public.tenant.kiwitcms.org/plan/11474/saucedemo-test-plan)
 - [QMS Test Execution and Incident Report](https://imgur.com/a/ybWCPlp)
 
 ## **🖥️ Featured Projects**
