@@ -4,7 +4,7 @@
 
 I’m a Quality Assurance Engineer with **9+ years of experience** testing web, mobile, API, SaaS, e-commerce, logistics, CMS, CRM, and digital learning platforms. I specialize in test automation, API and backend validation, security-remediation testing, performance testing, and release quality.
 
-[Portfolio](https://janahbeatriz.github.io) · [LinkedIn](https://www.linkedin.com/in/janahintal) · [Email](mailto:jbdintal@gmail.com) · [Résumé](https://janahbeatriz.github.io/Janah_Intal_Resume.pdf)
+[Portfolio](https://janahbeatriz.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/janahintal) · [Email](mailto:jbdintal@gmail.com) · [Résumé](https://janahbeatriz.github.io/Portfolio/Janah_Intal_Resume.pdf)
 
 ## What I work on
 
